@@ -16,4 +16,4 @@ if percentage >= 80:
         elif percentage >= 40:
             print("😊 Good compatibility!")
             else:
-                print("💔 You may need more understanding.")
+                print("💔 You may need more")
