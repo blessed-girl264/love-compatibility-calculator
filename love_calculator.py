@@ -10,10 +10,10 @@ percentage = score % 101
 print("Love compatibility:", percentage, "%")
 
 if percentage >= 80:
-    print("❤️ Perfect match! ❤️")
-    elif percentage >= 60:
+    print("❤️ Perfect match! ❤️")  
+elif percentage >= 60:
         print("💕 Very good compatibility!")
-        elif percentage >= 40:
+elif percentage >= 40:
             print("😊 Good compatibility!")
-            else:
+else:
                 print("💔 You may need more")
